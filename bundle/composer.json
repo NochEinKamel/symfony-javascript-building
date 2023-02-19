@@ -1,0 +1,10 @@
+{
+    "name": "acme/test",
+    "type": "symfony-bundle",
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/"
+        }
+    },
+    "require": {}
+}
